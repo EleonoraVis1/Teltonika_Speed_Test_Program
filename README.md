@@ -24,8 +24,8 @@ Examples:
 
 ./program -n 1
 
-./program -n 2 -x 6015
+./program -n 2 -x 5420
 
-./program -n 3 -x 6015
+./program -n 3 -x 9622
 
 ./program -n 4
